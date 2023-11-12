@@ -3,7 +3,7 @@
 This repository contains the analysis and findings of an A/B test conducted on the shopper hiring funnel. The goal of the test was to determine if initiating the required applicant background check earlier in the hiring process would improve conversion rates.
 
 ## Dataset
-The dataset for this analysis can be downloaded [here](link-to-dataset).
+The dataset for this analysis can be downloaded [here](https://github.com/AngelaQuuuu/AB_Test/blob/main/application.csv).
 
 ## Context
 In this simulated dataset, we conducted an A/B test to evaluate the impact of initiating the background check earlier in the shopper hiring process. The hypothesis was that by completing the necessary prerequisites faster, shoppers would maintain momentum and be more likely to start quickly.
@@ -30,9 +30,12 @@ Based on the findings, the following recommendations can be made:
 
 1. Implement the Change: Initiate the background check earlier in the shopper hiring process as it has shown a positive impact on conversion rates. Monitor the long-term effects to assess sustainability.
 
+2. Conduct Cost-Benefit Analysis: Perform a detailed cost-benefit analysis to understand the financial implications of conducting the background check earlier. Consider factors such as increased conversion rates, costs of the background check, and potential revenue gains.
+
+3. Further Experimentation: Explore other areas for improvement in the shopper hiring funnel. Consider testing additional changes, such as optimizing the activation process for prepaid debit cards or evaluating the impact of completing the online orientation.
 
 ## Slides and Appendix
 
-Please refer to the attached [slides](link-to-slides) for a summary of the findings and recommendations. The appendix contains additional content, including code snippets and workbooks used for the analysis.
+Please refer to the attached [slides](https://github.com/AngelaQuuuu/AB_Test/blob/main/ds_instacart_ppt_solution_6_pages.pdf) for a summary of the findings and recommendations. The appendix contains additional content, including code snippets and workbooks used for the analysis.
 
 Thank you for your interest in this A/B test analysis. Should you have any further questions or require additional information, please feel free to reach out to us.
